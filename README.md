@@ -30,12 +30,12 @@ This repository houses two captivating console programs:
 ## How to Use
 
 ### Student Registration Program
-1. Compile the program: `gcc student_registration.c -o student_registration`
-2. Run the program: `./student_registration`
+1. Run the program: `./Source.cpp`
+2. Choose Option `1`
 
 ### Tic Tac Toe Game
-1. Compile the program: `gcc tic_tac_toe.c -o tic_tac_toe`
-2. Run the program: `./tic_tac_toe`
+1. Run the program: `./Source.cpp`
+2. Choose Option `2`
 
 ## Requirements
 
