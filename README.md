@@ -30,11 +30,11 @@ This repository houses two captivating console programs:
 ## How to Use
 
 ### Student Registration Program
-1. Run the program: `./Source.cpp`
+1. Run the program: `./Source.c`
 2. Choose Option `1`
 
 ### Tic Tac Toe Game
-1. Run the program: `./Source.cpp`
+1. Run the program: `./Source.c`
 2. Choose Option `2`
 
 ## Requirements
